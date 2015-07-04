@@ -1,0 +1,2 @@
+[.homesick/repos/dotfiles-castle]
+checkout = homeshick clone 'gitlab@vdr01:homeshick/dotfiles-castle.git' 'dotfiles-castle'
